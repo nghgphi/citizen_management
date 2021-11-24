@@ -1,0 +1,10 @@
+1. quản lý thông tin hộ khẩu, nhân khẩu
+- thêm nhân khẩu
+- thay đổi nhân khẩu
+- tách hộ khẩu
+- cấp giấy tạm trú
+- tìm kiếm
+2. quản lý thu phí, đóng góp
+- thu phí
+- đóng góp
+- xem thống kê
